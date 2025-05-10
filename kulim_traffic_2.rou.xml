@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-05-10 02:43:14 by Eclipse SUMO netedit Version 1.22.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <flow id="f_0" begin="0.00" departLane="free" departSpeed="max" color="red" from="-E12" to="-E10" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_1" begin="0.00" departLane="free" departSpeed="max" color="red" from="-E12" to="E11" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_10" begin="0.00" departLane="free" departSpeed="max" from="E9" to="E12" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_11" begin="0.00" departLane="free" departSpeed="max" from="E9" to="E11" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_2" begin="0.00" departLane="free" departSpeed="max" color="red" from="-E12" to="-E9" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_3" begin="0.00" departLane="free" departSpeed="max" color="green" from="E10" to="E12" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_4" begin="0.00" departLane="free" departSpeed="max" color="green" from="E10" to="-E9" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_5" begin="0.00" departLane="free" departSpeed="max" color="green" from="E10" to="E11" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_6" begin="0.00" departLane="free" departSpeed="max" color="blue" from="-E11" to="-E10" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_7" begin="0.00" departLane="free" departSpeed="max" color="blue" from="-E11" to="E12" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_8" begin="0.00" departLane="free" departSpeed="max" color="blue" from="-E11" to="-E9" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_9" begin="0.00" departLane="free" departSpeed="max" from="E9" to="-E10" end="3600.00" probability="0.04000000000000000083"/>
+    <flow id="f_12" begin="120.00" departLane="free" departSpeed="max" color="grey" from="-E12" to="-E9" end="360.00" probability="0.2999999999999999889"/>
+    <flow id="f_13" begin="120.00" departLane="free" departSpeed="max" color="cyan" from="-E12" to="E11" end="360.00" probability="0.2999999999999999889"/>
+    <flow id="f_14" begin="240.00" from="-E11" to="E12" end="480.00" probability="0.2999999999999999889"/>
+    <flow id="f_15" begin="240.00" from="-E11" to="-E9" end="480.00" probability="0.2999999999999999889"/>
+</routes>
